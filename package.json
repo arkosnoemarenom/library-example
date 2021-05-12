@@ -1,0 +1,12 @@
+{
+  "name": "library-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arkosnoemarenom/library-example.git",
+  "author": "arkosnoemarenom <jorge.a.jaime.c@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "npm-package-example": "https://github.com/arkosnoemarenom/npm-package-example.git"
+  }
+}
