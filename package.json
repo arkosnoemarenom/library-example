@@ -1,8 +1,8 @@
 {
-  "name": "library-example",
+  "name": "library-npm-package-example",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:arkosnoemarenom/library-example.git",
+  "repository": "git@github.com:arkosnoemarenom/library-npm-package-example.git",
   "author": "arkosnoemarenom <jorge.a.jaime.c@gmail.com>",
   "license": "MIT",
   "private": true,
